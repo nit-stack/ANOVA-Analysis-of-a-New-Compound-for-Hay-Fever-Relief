@@ -14,14 +14,20 @@ This project involves analyzing data from an experiment conducted by a research 
 # Hypothesis Statement
 # One-way ANOVA for Ingredient A
 Null Hypothesis (H0): The hours of relief derived by the volunteers across all three different variations of ingredient A are the same. 
+
 H0: μ1 = μ2 = μ3
+
 Alternate Hypothesis (H1): The hours of relief derived are different for at least one of the three variations of ingredient A. 
+
 H1: Not all means are equal
 
 # One-way ANOVA for Ingredient B
 Null Hypothesis (H0): The hours of relief derived by the volunteers across all three different variations of ingredient B are the same.
+
 H0: μ1 = μ2 = μ3
+
 Alternate Hypothesis (H1): The hours of relief derived are different for at least one of the three variations of ingredient B.
+
 H1: Not all means are equal
 
 # Data Description
@@ -58,13 +64,17 @@ The interaction plot and the derived P-value indicate that there is a 95% certai
 # Null Hypotheses
 
 •  H0 (A): μA1=μA2=μA3
+
 •  H0 (B): μB1=μB2=μB3
+
 •  H0 (A*B): There is no interaction effect between A and B
 
 # Alternate Hypotheses
 
 H1 (A): Not all means of A are equal
+
 H1 (B): Not all means of B are equal
+
 H1 (A*B): There is an interaction effect between A and B
 
 # ANOVA Results
